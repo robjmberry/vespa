@@ -1,1 +1,4 @@
 /target
+
+#Render output files
+*.ppm
